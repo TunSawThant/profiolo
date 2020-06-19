@@ -26,8 +26,9 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
     strings: [
-        'Web Developer',
-        'Freelancer'
+        'Flutter Developer',
+        'Nodejs Developer',
+        'Full Stack Developer'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -36,8 +37,9 @@ var typed = new Typed('#typed' , {
 
 var typed_2 = new Typed('#typed_2' , {
     strings: [
-        'Web Developer',
-        'Freelancer'
+        'Flutter Developer',
+        'Nodejs Developer',
+        'Full Stack Developer'
     ],
     typeSpeed: 50,
     backSpeed: 50,
